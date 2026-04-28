@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Élève+Ingénieure+à+l'ENSAE+Dakar+🎓;Data+Analyst+en+formation+📊;Passionnée+d'économie+%26+de+data+🌍;Secrétaire+Générale+·+Club+Leadership+🏛️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Élève+Ingénieure+à+l'ENSAE+Dakar+🎓;Data+Engineering+en+formation+📊;Passionnée+d'économie+%26+de+data+🌍)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,6 @@
 diba = {
     "nom"        : "Boye DIBA",
     "école"      : "ENSAE Dakar 🎓",
-    "rôle"       : "Secrétaire Générale · Club Leadership",
     "passion"    : ["Data", "Économie", "Communication"],
     "localité"   : "Dakar, Sénégal 🌍",
     "motto"      : "Les données racontent des histoires 📈"
@@ -89,7 +88,7 @@ diba = {
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khadijaaboye)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Boye Diba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BoyeDiba)
 
 </div>
 
